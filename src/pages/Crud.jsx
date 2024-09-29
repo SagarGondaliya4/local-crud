@@ -106,7 +106,7 @@ const Crud = () => {
             alignItems: "center",
           }}
         >
-          <h1>CRUD App with Hooks</h1>
+          <h1>CRUD Application with Hooks</h1>
           <button onClick={handleLogout}>Logout</button>
         </div>
         <div className="flex-row">
